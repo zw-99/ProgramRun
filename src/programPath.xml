@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programs>
+	<program>
+		<processName>WiFiMaster.exe</processName>
+		<path>E:\Program Files (x86)\WiFi共享大师\WiFiMaster.exe</path>
+	</program>
+	<program>
+		<processName>TIM.exe</processName>
+		<path>C:\Program Files (x86)\Tencent\TIM\Bin\QQScLauncher.exe</path>
+	</program>
+	<program>
+		<processName>DrMain.exe</processName>
+		<path>C:\Drcom\DrUpdateClient\DrMain.exe</path>
+	</program>
+</programs>

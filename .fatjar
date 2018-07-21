@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 20 21:56:37 CST 2018
+onejar.license.required=false
+manifest.mergeall=true
+manifest.removesigners=true
+excludes=
+includes=
+onejar.checkbox=true
+onejar.expand=
+manifest.classpath=
+jarname=ProgramRun_fat.jar
+jarname.isextern=false
+manifest.file=<createnew>
+manifest.mainclass=cc.demo.Demo
